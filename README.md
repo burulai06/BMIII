@@ -10,8 +10,6 @@
 5. [Screenshots](#screenshots)
 6. [Database](#database)
 7. [Weekly Meeting Documentation](#weekly-meeting-documentation)
-8. [Unit Test Cases](#unit-test-cases)
-9. [Presentation](#presentation)
 
 ---
 
@@ -99,27 +97,27 @@ The Schedule Composer App is a web application designed for universities to auto
 
 ## Screenshots
 
+
 Below are key screenshots showcasing the application:
 
-> *(Replace with actual screenshots)*  
-![Screenshot 1](path/to/screenshot1.png)  
-*Example of the main scheduling interface with all available options for configuration.*
+![image](https://github.com/user-attachments/assets/3bfe532c-6c33-4edd-a239-ca8a607ab00e)
+![image](https://github.com/user-attachments/assets/809efb2a-57a4-4afa-8715-8f920a38283d)
+![image](https://github.com/user-attachments/assets/bd1aaa86-4b9a-470c-9d6a-89f7777d412f)
+![image](https://github.com/user-attachments/assets/1e6ad2bf-2ae7-4b0e-9a95-1cec5cac81bd)
+![image](https://github.com/user-attachments/assets/70c08302-9868-4c5f-8be0-625b99819640)
+![image](https://github.com/user-attachments/assets/2a727b72-b02a-4d0d-8e52-a3b4bba3e18e)
+![image](https://github.com/user-attachments/assets/90a4d270-a47e-4d6b-b57d-c920ea58fde6)
+![image](https://github.com/user-attachments/assets/06581d9e-4d28-45cd-bac1-c1e949718fa3)
+![image](https://github.com/user-attachments/assets/f7990e69-d071-42af-9c85-14b0940bc23e)
+![Uploading image.png…]()
 
-![Screenshot 2](path/to/screenshot2.png)  
-*Display of available rooms, groups, and teachers in the system, ready for assignment.*
 
-![Screenshot 3](path/to/screenshot3.png)  
-*Overview of the timetable grid with drag-and-drop functionality for manual adjustments.*
-
----
 
 ## Database
 
-> *(Replace with database diagram images)*  
-![Database Diagram](path/to/database-diagram.png)  
-*Diagram of the database schema showcasing tables for rooms, courses, teachers, and groups.*
 
 ---
+![Снимок экрана 2025-04-25 000423](https://github.com/user-attachments/assets/fa089c78-d057-4ba5-b0e3-7cc17e8c03eb)
 
 
 ## Weekly Meeting Documentation
