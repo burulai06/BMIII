@@ -81,19 +81,25 @@ The Schedule Composer App is a web application designed for universities to auto
 
 ## Team Members List
 
-- Alice Johnson
-- Bob Smith
-- Carol Lee
-
----
+- Tynai
+- Altynai
+- Zhanetta
+- Burulai
+- Aiganish
+-Risalatkhon
+-Nazar
 
 ## Roles of Group Members
 
-- **Alice Johnson**: Responsible for designing the database structure, maintaining data integrity, and implementing CRUD operations for tables like rooms, teachers, groups, and courses.
-- **Bob Smith**: Responsible for implementing backend logic, the scheduling algorithm, and REST API integrations.
-- **Carol Lee**: Responsible for frontend design, creating the interactive timetable grid, and implementing features like drag-and-drop, editing history, and exporting options.
-
----
+- **Tynai**: Responsible for implementing backend logic, the scheduling algorithm, database structure, and REST API integrations.
+- **Altynai**: Responsible for frontend design, creating the interactive timetable grid, and implementing features like drag-and-drop, editing history, and exporting options.
+- **Zhanetta**: Responsible for frontend design, creating the interactive timetable grid, and implementing features like drag-and-drop, editing history, and exporting options.
+- **Burulai**: Responsible for managing all sdlc procces,monitoring and given task.
+ - **Aiganish** Responsible for ux/ui designe
+ -**Risalatkhon** Responsible for ux/ui designe
+-**Nazar** Responsible for implementing backend logic
+   
+----
 
 ## Screenshots
 
@@ -122,7 +128,7 @@ Below are key screenshots showcasing the application:
 
 ## Weekly Meeting Documentation
 
-> *(Link or embed meeting notes here)*  
+[> *(Link or embed meeting notes here)*  
 *Documentation of weekly meetings, milestones, and task allocation.*
-
+](https://docs.google.com/document/d/1BGBq9v5xVMb6bIMrR2ei8fpZdAquErZK_3GYMSyOXFw/edit?tab=t.o1ezr7ei6gm8)
 ---
